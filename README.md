@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+# NAME:GAYATHRI.K
+# REG NO:212223230061
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
